@@ -6,3 +6,5 @@ This repository contains the Third project from the Unity Pathway "Junior Progra
 * Sprite Renderer
 * GetComponent
 * Using generics
+* ForceMode
+* 
