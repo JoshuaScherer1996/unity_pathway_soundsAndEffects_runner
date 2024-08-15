@@ -11,4 +11,8 @@ This repository contains the Third project from the Unity Pathway "Junior Progra
 * Manipulating gravity
 * Logical operators
 * Constraints to freeze positions and rotations
+* Tags
+* Prefab editor
+* Communication between scripts
+* Find method
 * 
