@@ -10,4 +10,5 @@ This repository contains the Third project from the Unity Pathway "Junior Progra
 * Using physics
 * Manipulating gravity
 * Logical operators
+* Constraints to freeze positions and rotations
 * 
