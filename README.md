@@ -3,7 +3,7 @@
 This repository contains the Third project from the Unity Pathway "Junior Programmer". The goal is to understand and implement the concept of Sound and Effects.
 
 ## Topics covered
-* Sprite Renderer
+* Sprite renderer
 * GetComponent
 * Using generics
 * ForceMode
@@ -15,4 +15,11 @@ This repository contains the Third project from the Unity Pathway "Junior Progra
 * Prefab editor
 * Communication between scripts
 * Find method
+* Animation controller
+* Idle animation
+* Animation states
+* Transitions
+* Animation parameters
+* Layer default States
+* Animation Layers
 * 
