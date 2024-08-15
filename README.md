@@ -7,4 +7,7 @@ This repository contains the Third project from the Unity Pathway "Junior Progra
 * GetComponent
 * Using generics
 * ForceMode
+* Using physics
+* Manipulating gravity
+* Logical operators
 * 
