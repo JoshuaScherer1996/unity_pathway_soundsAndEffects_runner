@@ -23,4 +23,13 @@ This repository contains the Third project from the Unity Pathway "Junior Progra
 * Layer default States
 * Animation Layers
 * Setting animation properties
-* 
+* Negation
+* Shorthand arithmetic operators
+* Audio sources
+* Audio listeners
+* Particles
+* Particle system
+* Play on Awake
+* Animation method Play
+* Animation method Stop
+* Sound method PlayOneShot
