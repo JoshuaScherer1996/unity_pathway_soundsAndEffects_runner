@@ -10,6 +10,8 @@ public class PlayerController : MonoBehaviour
     private bool _isOnGround = true;
     public bool gameOver;
     private static readonly int JumpTrig = Animator.StringToHash("Jump_trig"); // More efficient than using the name.
+    private static readonly int DeathB = Animator.StringToHash("Death_b");
+    private static readonly int DeathTypeINT = Animator.StringToHash("DeathType_int");
 
 
     // Start is called before the first frame update.
@@ -49,6 +51,8 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log("Game Over");
             gameOver = true;
+            _playerAnim.SetBool(DeathB, true);
+            _playerAnim.SetInteger(DeathTypeINT, 1);
         }
     }
 }
